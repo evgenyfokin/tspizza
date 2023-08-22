@@ -1,0 +1,13 @@
+.pizza {
+  position: relative;
+  max-width: 30%;
+  border: 1px solid #000;
+}
+.pizza img {
+  width: 100%;
+}
+.pizza .icon {
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=SinglePizza.module.css.map */
